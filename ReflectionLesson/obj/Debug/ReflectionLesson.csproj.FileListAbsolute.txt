@@ -1,0 +1,7 @@
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.exe.config
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.exe
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.pdb
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.csproj.CoreCompileInputs.cache
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.exe
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.pdb
+C:\Users\МакишевЕ.CORP\source\repos\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.csprojAssemblyReference.cache
